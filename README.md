@@ -18,15 +18,12 @@ Upload a PDF, ask a question, and get accurate, context-aware responses powered 
 - 🤖 **Instant Answers:** Context-aware LLM responses.
 - 🖥️ **User-Friendly UI:** Built with Gradio.
 
-## Demo
-
-![QA Bot Demo](./result/Program_Interface.png)
 
 ## How to Run
 
 1. **Clone this repo**
     ```bash
-    git clone https://github.com/YOUR-USERNAME/pdf-qa-bot-langchain.git
+    git clone https://github.com/nishxnt/pdf-qa-bot-langchain.git
     cd pdf-qa-bot-langchain
     ```
 
