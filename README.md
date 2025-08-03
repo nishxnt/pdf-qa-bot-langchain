@@ -40,7 +40,6 @@ Upload a PDF, ask a question, and get accurate, context-aware responses powered 
     ```bash
     python qabot.py
     ```
-    The Gradio app will launch at [http://127.0.0.1:7860](http://127.0.0.1:7860).
 
 4. **Interact**
     - Upload a PDF.
